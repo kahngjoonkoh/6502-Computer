@@ -1,5 +1,5 @@
 # 6502-Computer
-<img width="743" alt="image" src="https://user-images.githubusercontent.com/46638829/181072404-f3eaf8e8-fa3e-4303-97dd-23bb80a4aba0.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/46638829/181072404-f3eaf8e8-fa3e-4303-97dd-23bb80a4aba0.png">
 
 | Qty. | Description Sources |
 |:--|:--|
@@ -37,7 +37,6 @@
 | 1 | DC jack to screw terminal adapter for connecting power |
 | 1 | TL866 II Plus EEPROM Programmer | 
 
-The CPU_Reader code that was used to debug the computer is also in the repository.
 
 ## Credits
 Ben Eater
