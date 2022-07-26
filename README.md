@@ -37,6 +37,7 @@
 | 1 | DC jack to screw terminal adapter for connecting power |
 | 1 | TL866 II Plus EEPROM Programmer | 
 
+The CPU_Reader code that was used to debug the computer is also in the repository.
 
 ## Credits
 Ben Eater
